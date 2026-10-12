@@ -1,4 +1,4 @@
-# Hi, I'm Diya 👋
+## Hi, I'm Diya 👋
 
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
@@ -6,7 +6,7 @@ I'm an aspiring Data Analyst with a background in media, research, and newsroom 
 
 My experience in research and information verification has helped me develop attention to detail, analytical thinking, and problem-solving skills. I'm interested in using data to identify patterns and generate meaningful insights.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 - **SQL:** Data querying, joins, filtering, grouping, and aggregation
 - **Python:** Pandas, NumPy, data cleaning, and analysis
@@ -15,7 +15,7 @@ My experience in research and information verification has helped me develop att
 - **Data Analytics:** Data transformation and exploratory analysis
 - **Generative AI:** AI concepts and business applications
 
-📂 Featured Projects
+## 📂 Featured Projects
 
 1. [Airline Database Analysis — SQL](https://github.com/jaindiya593-lang/Airline-Database-Analysis-SQL)
 
@@ -29,10 +29,10 @@ Created an interactive dashboard to explore e-commerce sales, revenue trends, pr
 
 Used Python, Pandas, and NumPy to practice data cleaning, missing-value handling, filtering, and combining datasets.
 
-🎓 Certification
+## 🎓 Certification
 
 - Data Analytics & AI — Skillovilla
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/diyajain05/
